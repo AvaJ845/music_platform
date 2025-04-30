@@ -1,3 +1,4 @@
+BeatDrop is a modern, Python-based music platform designed specifically for independent artists to distribute their music directly to fans
 Full Modular Architecture:
 
 Organized code structure with separate modules for authentication, artist profiles, music handling, payments, database management, and UI
